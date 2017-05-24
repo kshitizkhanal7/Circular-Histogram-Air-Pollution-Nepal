@@ -11,4 +11,7 @@ hourly, weekly, monthly download
 
 use plugin
 
+Next action: Learn data cleaning with Python. Use Python to sort and filter data, separate attributes from a single column item to many, put it in a format suitable for the plugin. 
+
+
 
