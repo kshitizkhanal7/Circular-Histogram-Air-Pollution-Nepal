@@ -5,13 +5,12 @@ Tool used: QGIS Plugin https://github.com/NationalSecurityAgency/qgis-d3datavis-
 
 Air pollution Data download from http://rvibek.com.np/csv-from-drishti-kathmandu-valley-air-quality/
 
-filter and clean data from the above link using Python. 
-hourly, weekly, monthly download 
-
-
-use plugin
-
-Next action: Learn data cleaning with Python. Use Python to sort and filter data, separate attributes from a single column item to many, put it in a format suitable for the plugin. 
+filter and clean data from the above link using spreadsheet software/programming tool
+  - separate date into weekday, day of month, month and year 
+  - Open QGIS. Add css: layers > add delimited text layer. attribute only table
+  - install circular histogram plugin on QGIS
+  
+  
 
 
 
